@@ -1,0 +1,21 @@
+-------------PRE and POST INCREMENT/DECREMENT-------------
+==> In this we study about the increments and decrement which is
+    known as the pre and post increment. This is used in a for looping.
+
+
+a++ -> post increment
+a-- -> post decrement  
+++a -> pre increment
+--a -> post decrement
+
+As we know they use in a loop which is known as the "for" loop.
+
+1.POST INCREMENT/DECREMENT
+=>In this we do like example
+(a++)-->in this first the we read the number then increment.
+(a--)-->in this first the we read the number then decrement.
+
+2.PRE INCREMENT/DECREMENT
+=>In this we do like bellow
+(++a)-->in this first we increment then we read the number.
+(--a)-->in this first we decrement then we read the number.

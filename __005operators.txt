@@ -1,0 +1,48 @@
+----------------OPERATORS--------------
+
+i) Bitwise opertors:-
+-> In this we know about bits , bits are like 0,1 and the opertors
+   which we can put on these bits(0,1) are know as bitwise opertors.
+
+==) Its have 4 types
+i.   AND--> Denoted by "&"
+ii.  OR-->
+iii. NOT--> Denoted by "!"
+iv.  XOR--> Denoted by "^"
+
+i.)  -------------AND------------
+ ==>  a|b|a/b
+      0|1| 0
+      0|0| 0
+      1|0| 0
+      1|1| 0 ==>if any side havezero then output become zero
+
+ii.)------------OR-------------
+  ==>
+      a|b|a/b
+      0|1| 0
+      0|0| 0
+      1|0| 0
+      1|1| 0   ==> in this any isde have "1" then uotput become "1"
+
+ iii.)------------NOT----------------
+ ==>   a  |  not a     
+       0  |   1
+  =>In this output in apposite to the input if input 
+    is "0" then out put is "1" and in the same way if
+    input is "1" then output is "0".
+
+iv.)-------------XOR----------------
+==>
+    a|b|a/b
+      0|1| 0
+      0|0| 0
+      1|0| 0
+      1|1| 0
+             ==> IN this same value has zero "0"
+                 and diffreent value has one "1".
+                 
+
+
+
+                 
